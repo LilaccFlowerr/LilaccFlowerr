@@ -24,7 +24,7 @@
 
 ### ˗ˏˋ currently working on ´ˎ˗
 
-🐚 **[quickshell](https://github.com/LilaccFlowerr)** — building my own shell from scratch because why not
+🐚 **[quickshell](https://github.com/LilaccFlowerr/Nebula-shell)** — building my own shell from scratch because why not
 
 ---
 
