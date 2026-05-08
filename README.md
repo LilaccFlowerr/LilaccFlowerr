@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+  <img src="YOUR_GIF_URL_HERE" width="300"/>
 </div>
 
 <h1 align="center">
@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  software dev student ・ linux girlie ・ terminal dweller 🐧
+  cs student · i use arch btw (well, CachyOS) · currently: making a shell
 </p>
 
 ---
