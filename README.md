@@ -15,10 +15,10 @@
 ### ˗ˏˋ about me ´ˎ˗
 
 - 🌸 cs student who genuinely enjoys the chaos of computers
-- 🐧 running **CachyOS** because i like to suffer (affectionate)
-- 🔧 currently building my own shell with **Quickshell**
-- 💭 i think tinkering with your OS is a personality trait
-- ✨ always learning, always breaking something, always fixing it
+- ´ˎ˗ running **CachyOS** because i like to suffer (affectionate)
+- 🌸 currently building my own shell with **Quickshell**
+- ´ˎ˗ i think tinkering with your OS is a personality trait
+- 🌸 always learning, always breaking something, always fixing it
 
 ---
 
