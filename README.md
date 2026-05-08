@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="YOUR_GIF_URL_HERE" width="300"/>
+  <img src="(https://tenor.com/view/mambo-umamusume-matikanetannhauser-mati-kane-tannhauser-tannh%C3%A4user-low-cortisol-gif-6532672876975479564)" width="300"/>
 </div>
 
 <h1 align="center">
