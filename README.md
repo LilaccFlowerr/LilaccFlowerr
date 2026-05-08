@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  hey, i'm ize! ✿
+  hii, i'm ize <3
 </h1>
 
 <p align="center">
