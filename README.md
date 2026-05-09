@@ -68,9 +68,3 @@
 </div>
 
 ---
-
-<div align="center">
-
-[![](https://komarev.com/ghpvc/?username=LilaccFlowerr&color=C9A0DC&style=flat-square)](https://visitcount.itsvg.in)
-
-</div>
