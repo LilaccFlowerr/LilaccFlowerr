@@ -3,24 +3,21 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C9A0DC&center=true&vCenter=true&width=440&lines=hii+im+ize+%F0%9F%8C%B8;cs+student+;currently+building+a+shell!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C9A0DC&center=true&vCenter=true&width=440&lines=Meow+meow+meow+%F0%9F%8C%B8;cs+student" alt="Typing SVG" />
 </p>
 
 ---
 
 ### ˗ˏˋ about me ´ˎ˗
 
-- 🌸 cs student who genuinely enjoys the chaos of computers
-- 🐧 running **CachyOS** because i like to suffer (affectionate)
-- 🌸 currently building my own shell with **Quickshell**
-- 💜 i think tinkering with your OS is a personality trait
-- 🌸 always learning, always breaking something, always fixing it
+- I love quickshell
+- I love animations
 
 ---
 
 ### ˗ˏˋ currently working on ´ˎ˗
 
-🐚 **[nebula-shell](https://github.com/LilaccFlowerr/Nebula-shell)** — building my own shell from scratch because why not
+🐚 **[nebula-shell](https://github.com/LilaccFlowerr/Nebula)** — building my own shell from scratch because why not
 
 ---
 
